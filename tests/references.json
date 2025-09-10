@@ -1,0 +1,76 @@
+{
+    "Homo_sapiens": {
+        "GRCh38": {
+            "ensembl.111": {
+                "fasta_dna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/Homo_sapiens.GRCh38.dna.primary_assembly.fa",
+                "fasta_cdna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/Homo_sapiens.GRCh38.cdna.all.fa",
+                "fasta_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/Homo_sapiens.GRCh38.cds.all.fa",
+                "fasta_ncrna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/Homo_sapiens.GRCh38.ncrna.fa",
+                "fasta_pep": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/Homo_sapiens.GRCh38.pep.all.fa",
+                "gtf": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/Homo_sapiens.GRCh38.111.gtf",
+                "tsv": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/mappings",
+                "fasta_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/Homo_sapiens.GRCh38.111.gene.fa",
+                "ann_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/annotations/Homo_sapiens.GRCh38.111.gene.sorted.tsv",
+                "ann_transcript": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/annotations/Homo_sapiens.GRCh38.111.transcript.sorted.tsv",
+                "ann_exon": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/annotations/Homo_sapiens.GRCh38.111.exon.sorted.tsv",
+                "ann_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/annotations/Homo_sapiens.GRCh38.111.cds.sorted.tsv",
+                "ann_5p_utr": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/annotations/Homo_sapiens.GRCh38.111.5p_utr.sorted.tsv",
+                "ann_3p_utr": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/annotations/Homo_sapiens.GRCh38.111.3p_utr.sorted.tsv",
+                "bed_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/bed_files/Homo_sapiens.GRCh38.111.gene.sorted.bed",
+                "bed_transcript": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/bed_files/Homo_sapiens.GRCh38.111.transcript.sorted.bed12",
+                "bed_exon": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/bed_files/Homo_sapiens.GRCh38.111.exon.sorted.bed",
+                "bed_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/bed_files/Homo_sapiens.GRCh38.111.cds.sorted.bed",
+                "bed_5p_utr": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/bed_files/Homo_sapiens.GRCh38.111.5p_utr.sorted.bed",
+                "bed_3p_utr": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/bed_files/Homo_sapiens.GRCh38.111.3p_utr.sorted.bed",
+                "idx_bwt_dna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/bowtie_index/dna",
+                "idx_star": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/star_index",
+                "idx_rsem": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/rsem_index",
+                "idx_salmon": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/ensembl/111/salmon_index"
+            },
+            "refseq.GCF_000001405.40": {
+                "fasta_dna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_genomic.fna",
+                "fasta_mrna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_rna.fna",
+                "fasta_prna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_rna_from_genomic.fna",
+                "fasta_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_cds_from_genomic.fna",
+                "fasta_pep": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_protein.faa",
+                "fasta_pep_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_translated_cds.faa",
+                "gtf": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_genomic.gtf",
+                "readme": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/README_GCF_000001405.40-RS_2024_08",
+                "assembly_info": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_assembly_report.txt",
+                "fasta_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14.gene.fna",
+                "ann_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/annotations/GCF_000001405.40_GRCh38.p14.gene.sorted.tsv",
+                "ann_transcript": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/annotations/GCF_000001405.40_GRCh38.p14.transcript.sorted.tsv",
+                "ann_exon": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/annotations/GCF_000001405.40_GRCh38.p14.exon.sorted.tsv",
+                "ann_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/annotations/GCF_000001405.40_GRCh38.p14.cds.sorted.tsv",
+                "bed_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/bed_files/GCF_000001405.40_GRCh38.p14.gene.sorted.bed",
+                "bed_transcript": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/bed_files/GCF_000001405.40_GRCh38.p14.transcript.sorted.bed12",
+                "bed_exon": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/bed_files/GCF_000001405.40_GRCh38.p14.exon.sorted.bed",
+                "bed_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/bed_files/GCF_000001405.40_GRCh38.p14.cds.sorted.bed",
+                "idx_bwt_rna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_000001405.40_GRCh38.p14/bowtie_index/rna"
+            }
+        },
+        "T2T-CHM13v2.0": {
+            "refseq.GCF_009914755.1": {
+                "fasta_mrna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0_rna.fna",
+                "fasta_prna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0_rna_from_genomic.fna",
+                "fasta_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0_cds_from_genomic.fna",
+                "fasta_pep": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0_protein.faa",
+                "fasta_pep_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0_translated_cds.faa",
+                "gtf": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0_genomic.gtf",
+                "readme": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/README_GCF_009914755.1-RS_2024_08",
+                "assembly_info": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0_assembly_report.txt",
+                "fasta_dna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0_genomic.fna",
+                "fasta_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/GCF_009914755.1_T2T-CHM13v2.0.gene.fna",
+                "ann_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/annotations/GCF_009914755.1_T2T-CHM13v2.0.gene.sorted.tsv",
+                "ann_transcript": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/annotations/GCF_009914755.1_T2T-CHM13v2.0.transcript.sorted.tsv",
+                "ann_exon": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/annotations/GCF_009914755.1_T2T-CHM13v2.0.exon.sorted.tsv",
+                "ann_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/annotations/GCF_009914755.1_T2T-CHM13v2.0.cds.sorted.tsv",
+                "bed_gene": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/bed_files/GCF_009914755.1_T2T-CHM13v2.0.gene.sorted.bed",
+                "bed_transcript": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/bed_files/GCF_009914755.1_T2T-CHM13v2.0.transcript.sorted.bed12",
+                "bed_exon": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/bed_files/GCF_009914755.1_T2T-CHM13v2.0.exon.sorted.bed",
+                "bed_cds": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/bed_files/GCF_009914755.1_T2T-CHM13v2.0.cds.sorted.bed",
+                "idx_bwt_rna": "/mnt/disks/resources/data/references/outputs/Homo_sapiens/refseq/GCF_009914755.1_T2T-CHM13v2.0/bowtie_index/rna"
+            }
+        }
+    }
+}
